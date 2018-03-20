@@ -1,0 +1,16 @@
+''' Sprawozdanie:
+1. Kto co zrobil
+2. Jakosc - roznice między różnymi pikselami, błąd sredniokwadratowy 
+    Zalezy od ilosci detektorow, kata, rozmycie_wstepne (maska gausowska)
+
+Sinogram:
+    Jak zbieram biore sume
+Odwrotnie:
+    Dodaje x/N(suma pikseli). Max moze byc grubo powyzej 255 wiec normalizujey.
+'''
+
+Dominik:
+    Bersenham
+    
+Marcin:
+    Detekotry, przesuwanie po łuku, nowe zdjęcie
